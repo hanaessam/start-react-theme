@@ -1,0 +1,27 @@
+.my-modal{
+    width:100%;
+
+}
+
+.modal-label{
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+
+.modal-image{
+    border-radius: 0.5rem;
+}
+
+.modal-btn{
+    background-color: #1ABC9C;
+    color: white;
+}
+.modal-btn:hover{
+    background-color: #159A80;
+    color: white;
+}
